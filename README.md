@@ -5,8 +5,8 @@
 
 ## Data Source
 - IPL 2008-2024 matches <a href="https://github.com/Mano-1105/IPL-Analysis-Dashboard/blob/main/ipl%202008-2024%20matches.zip">Data set</a>
-- IPL 2008-2024 deliveries <a href="https://github.com/Mano-1105/IPL-Analysis-Dashboard/blob/main/ipl_2008-2024%20deliveries.zip">Data Set</a>
-- IPL Logo images <a href="https://github.com/Mano-1105/IPL-Analysis-Dashboard/blob/main/Ipl%20Logo%20images.zip">Data<>/a
+- IPL 2008-2024 deliveries <a href="https://github.com/Mano-1105/IPL-Analysis-Dashboard/blob/main/ipl_2008-2024%20deliveries.zip">Data set</a>
+- IPL Logo images <a href="https://github.com/Mano-1105/IPL-Analysis-Dashboard/blob/main/Ipl%20Logo%20images.zip">Data set</a>
 
 ## Key Features
  - Filter by Season and Team
@@ -21,7 +21,7 @@
 - Toss Winner vs Match Winner correlation
 - Win by Runs / Win by Wickets breakdown
 - Total Runs and Wickets
-- 
+
 ## Insights You Can Derive
 - Which team won the most matches in a given season?
 - How does toss decision affect the result?
